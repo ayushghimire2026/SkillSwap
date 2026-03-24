@@ -1,4 +1,5 @@
 const Session = require('../models/Session');
+const User = require('../models/User');
 const Notification = require('../models/Notification');
 const { onSessionCompleted } = require('../services/gamificationService');
 
