@@ -2,6 +2,7 @@
   "name": "skillswap-client",
   "private": true,
   "version": "1.0.0",
+  "author": "Ayush Ghimire",
   "type": "module",
   "scripts": {
     "dev": "vite",

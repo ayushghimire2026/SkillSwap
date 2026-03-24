@@ -59,6 +59,10 @@ The application will be available at `http://localhost:5175`.
 - `/server`: Backend API and Socket.IO logic.
 - `API_DOCS.md`: Detailed API reference.
 
+## ✍️ Credits
+
+**SkillSwap** was designed, architected, and built by **Ayush Ghimire**.
+
 ## 📄 License
 
 MIT © 2026 SkillSwap

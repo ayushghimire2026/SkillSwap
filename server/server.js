@@ -79,7 +79,8 @@ app.use(errorHandler);
 // Start server
 const PORT = process.env.PORT || 5000;
 server.listen(PORT, () => {
-  console.log(`🚀 Server running on port ${PORT} in ${process.env.NODE_ENV || 'development'} mode`);
+  console.log(`🚀 SkillSwap Server Developed by Ayush Ghimire`);
+  console.log(`📡 Ready on port ${PORT} in ${process.env.NODE_ENV || 'development'} mode`);
 });
 
 module.exports = { app, server, io };

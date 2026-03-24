@@ -54,6 +54,9 @@ function App() {
           <Route path="*" element={<NotFound />} />
         </Routes>
       </AnimatePresence>
+      <footer class="py-6 text-center text-sm text-surface-500 border-t border-surface-200 dark:border-surface-800">
+        <p>Built with ❤️ by <span class="font-bold text-primary-500">Ayush Ghimire</span></p>
+      </footer>
       <ToastContainer />
     </div>
   );

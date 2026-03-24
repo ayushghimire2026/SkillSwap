@@ -1,6 +1,7 @@
 {
   "name": "skillswap-server",
   "version": "1.0.0",
+  "author": "Ayush Ghimire",
   "description": "SkillSwap API Server",
   "main": "server.js",
   "scripts": {
