@@ -1,0 +1,16 @@
+{
+  "name": "SkillSwap",
+  "short_name": "SkillSwap",
+  "description": "Trade skills, not money. A peer-to-peer skill exchange marketplace.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#4f46e5",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
