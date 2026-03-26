@@ -22,6 +22,8 @@ const reviewRoutes = require('./routes/reviewRoutes');
 const chatRoutes = require('./routes/chatRoutes');
 const notificationRoutes = require('./routes/notificationRoutes');
 const adminRoutes = require('./routes/adminRoutes');
+const User = require('./models/User');
+
 
 const app = express();
 const server = http.createServer(app);

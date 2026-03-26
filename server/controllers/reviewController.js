@@ -1,5 +1,6 @@
 const Review = require('../models/Review');
 const Session = require('../models/Session');
+const User = require('../models/User');
 const Notification = require('../models/Notification');
 const { recalculateReputation, awardXP, XP_REWARDS } = require('../services/gamificationService');
 
